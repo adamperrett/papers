@@ -1,7 +1,5 @@
 lets just start again
 
-=======
 results section
->>>>>>> added some results
-<<<<<<< HEAD
+
 conclusions
