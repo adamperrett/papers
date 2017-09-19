@@ -2,5 +2,13 @@ sdehgb
 master fun
 
 checked git commands
+<<<<<<< HEAD
 
 back on the master
+=======
+dfrsdt
+sdhsrth fg  gf fgg
+
+the new branch of 1st
+
+
