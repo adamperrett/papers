@@ -1,3 +1,5 @@
 sdehgszdfbgsdb
 
 a new line
+
+checked git commands
